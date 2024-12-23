@@ -3,7 +3,7 @@
 You will need nix (with flakes enabled), then do:
 
 ```shell
-$ nix run github:MalteT/undercroft-flake
+nix run github:MalteT/undercroft-flake
 ```
 
 ```
